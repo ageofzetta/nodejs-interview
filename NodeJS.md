@@ -28,10 +28,10 @@ Which NodeJS Web or REST Frameworks have you worked with?
 
 How do you deal with user authentication and sessions in a NodeJS app?
 
-Have you worked with microservices in NodeJS?
+Have you worked with microservices in a NodeJS app?
 
 If so ¿Which tools and methodologies did you use?
 
-Have you worked with websockets in NodeJS?
+Have you worked with websockets in a NodeJS app?
 
 If so ¿Which tools and methodologies did you use?
