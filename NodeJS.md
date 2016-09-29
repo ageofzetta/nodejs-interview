@@ -12,9 +12,15 @@ Which javascript build system workflow & tools do you prefer?
 
 What module bundlers do you know and what one do you prefer?
 
+Do you use Closures? ¿Why?
+
 What is NodeJS?
 
 How NodeJS deal with the Asynchronous nature of JS?
+
+If you were working on a NodeJS app right now how would that project folder structure would look like?
+
+Do you know how to switch between versions of NodeJS ? How and why would you do that?
 
 Which NodeJS built-in modules do you use frequently?
 
